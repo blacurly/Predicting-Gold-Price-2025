@@ -1,6 +1,6 @@
 # Predicting Gold Price 2025 Using Time Series Modeling
 
-📎 **[View Presentation Slides (PDF)](https://github.com/hyunji0618/GoldPriceTSForecast/blob/main/Gallagher_Gold%20Price%20Prediction.pdf)**
+📎 **[View Presentation Slides (PDF)](https://github.com/blacurly/Predicting-Gold-Price-2025/blob/84a3293b6f481e40d8a9f29b8f223bd924060a7c/Gallagher_Gold%20Price%20Prediction.pptx.pdf)**
 
 ## Project Overview
 This project focuses on predicting global gold prices using a range of time series forecasting techniques including LSTM, MLP (Neural Network), ARIMA, ETS, and Prophet. We analyzed historical gold price data and relevant macroeconomic indicators—such as the S&P 500, crude oil prices, and the US Dollar Index—to develop models that accurately forecast future gold price movements.
